@@ -1,0 +1,10 @@
+/build/
+/.venv/
+__pycache__/
+*.pyc
+.DS_Store
+MAIN.bin
+DATA.bin
+*.BIN
+*.CFG
+*.bin

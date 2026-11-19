@@ -1,0 +1,97 @@
+[
+  {
+    "file": "flip-base.png",
+    "source_name": "flip-base.png",
+    "sha256": "e2cdd7b215013e3a0a27eeac6dd4430fa8e555dff919e8866a4a7a6da7397228"
+  },
+  {
+    "file": "flip-mirror-live.png",
+    "source_name": "flip-mirror-live.png",
+    "sha256": "3222f8d9522936e00c000c91fac8a8ef44b162cecfbb87d1428e3b79ae4b233f"
+  },
+  {
+    "file": "flip-picture-vflip-pinned.png",
+    "source_name": "flip-picture-vflip-pinned.png",
+    "sha256": "9b275c10bf7f543bdc584efba8ba5a6af8e53486bd203031d8b1f9a2966d14dd"
+  },
+  {
+    "file": "overlay-Off.png",
+    "source_name": "Off.png",
+    "sha256": "a7abd531cff3ba82037705c84ecf19017356a721a73f8a1dc7209dcac7de5302"
+  },
+  {
+    "file": "overlay-180.png",
+    "source_name": "180.png",
+    "sha256": "0a26000d545a37e096a61ee1b6056edd56077c62f1a032f455f86b1b6e7ae7e9"
+  },
+  {
+    "file": "overlay-180-mirror.png",
+    "source_name": "180-mirror.png",
+    "sha256": "ce00699e3f1267b9838d8fed8d38be2d64f6295e1772b05bd5fe4aaf08474d84"
+  },
+  {
+    "file": "overlay-mirror.png",
+    "source_name": "mirror.png",
+    "sha256": "4b2bf11e2d8931473f6412b4745b06443416110eaa9c3352dfc0c32dfa44f599"
+  },
+  {
+    "file": "overlay-half-press.png",
+    "source_name": "half-press.png",
+    "sha256": "899947426174e7daa6d8219c827746727b963f9ab6dcaa1a62ea30ffe4ea92cf"
+  },
+  {
+    "file": "row-bench-1.json",
+    "source_name": "result.json",
+    "sha256": "d250be8d91ef6bcac10bdd610450cd22a7c3cc4e1dcf234cebd7443629d90096"
+  },
+  {
+    "file": "row-bench-2.json",
+    "source_name": "result.json",
+    "sha256": "4acb4349ebe7afc3e6587cc18738ca7d472ea0a2f1ddc9e23f22da5c89dfa112"
+  },
+  {
+    "file": "row-bench-3.json",
+    "source_name": "bench.json",
+    "sha256": "85e32d692a8760d20c6e568cd61ad3937c1e29a29e15779bf825d2b3e48c783a"
+  },
+  {
+    "file": "stock-live-rate.json",
+    "source_name": "live.json",
+    "sha256": "941d591b98a8515db32def1e69292f0e111078fd11d0415297702927be33de73"
+  },
+  {
+    "file": "baseline-rate.json",
+    "source_name": "baseline.json",
+    "sha256": "da68ed9694018ae9e782cfd015496db3e21bbde1685e06e8e60fa9d36817c387"
+  },
+  {
+    "file": "prefs-reboot-state.json",
+    "source_name": "state-after.json",
+    "sha256": "20d598976019ee299b05705feaaa32471dbec1d3cdf9debf87185122d742001f"
+  },
+  {
+    "file": "prefs-custom2.png",
+    "source_name": "after-restart.png",
+    "sha256": "7968cf3d7210b46a7ea1721cece88650343374c6fb665fefd7b020ebe7177734"
+  },
+  {
+    "file": "prefs-custom1.png",
+    "source_name": "custom-1-off.png",
+    "sha256": "df0c71c04584c280fb62d154603a8e5768ca5728cdec984e226b506c9928b988"
+  },
+  {
+    "file": "last-row.png",
+    "source_name": "single-last-v-2.png",
+    "sha256": "44d4cff70a1234632b53feb1658a900b244ad840cd187c67a44f9dd8de8d3e5c"
+  },
+  {
+    "file": "upper-field.jpg",
+    "source_name": "comparison.jpg",
+    "sha256": "180d47711937ea05daae0ca8785038c4e496744f589a2fcf40fe6732b64dbfad"
+  },
+  {
+    "file": "osd-hardware.jpg",
+    "source_name": "compare.jpg",
+    "sha256": "cab9fd0e18cfbe4a154304708c7113c9999c180f4a4f888b6a1e7349bf4cd587"
+  }
+]
